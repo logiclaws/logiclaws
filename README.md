@@ -8,8 +8,8 @@ Understaing .NET core fundamentals and its architecture
 Javascript, HTML, CSS, Asp.NET, Sql Queries, and .NET
 
 
-- 📫 How to reach me..
+**- 📫 How to reach me..
 - 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact..
--->
+-->**
